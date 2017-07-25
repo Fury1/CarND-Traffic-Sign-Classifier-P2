@@ -1,1 +1,2 @@
 # CarND-Traffic-Sign-Classifier-P2
+This is the second project in the Udacity Self Driving ND program. In this project it was required to create a convolutional neural network that identifies traffic signs from a German traffic sign data set. Included in the repo is a Jupyter Notebook with the code, a writeup file explaining the project pipeline as well as some related examples.
