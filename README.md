@@ -6,6 +6,6 @@ Main steps covered in this lab are:
 * Dataset exploration and visualization
 * Data augmentation
 * Deep network design and training
-* Disualization of the certainty/uncertainty of the model's predictions
+* Visualization of the certainty/uncertainty of the model's predictions
 
 Included in the repo is a Jupyter Notebook with the code, a writeup file explaining the project pipeline as well as some related examples.
