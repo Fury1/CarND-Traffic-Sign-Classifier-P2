@@ -215,7 +215,7 @@ More powerful convolutional layers might have been better able to pick up the of
 
 For the final segment of this project as an extra I decided to visualize the layers of my network for each downloaded image. These images prove to be very interesting in the sense of how the network is trying to refine the image to identify features of use to it in each sample as the layers progress through the network.
 
-Ultimately, after many layers a very abstracted view of the image is constructed. After looking at these layers my initial thoughts where that if larger image data was fed into the network instead of (32,32) pixel images, the larger images might be able to yield more dimensions of use to the network. This would also allow the convolutions to get bettered detailed characteristics about the images. However, I'm sure that larger images would also create a harder more costly algorithm to compute.
+Ultimately, after many layers a very abstracted view of the image is constructed. After looking at these layers my initial thoughts were that if larger image data was fed into the network instead of (32,32) pixel images, the larger images might be able to yield more dimensions of use to the network. This would also allow the convolutions to get bettered detailed characteristics about the images. However, I'm sure that larger images would also create a harder more costly algorithm to compute.
 
 Images 1 -5 Visualized Through Layer 1 (See code cell 14 in the notebook for the full output):
 ![Image 1 Layer 1][image13]
